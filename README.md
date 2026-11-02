@@ -1,4 +1,5 @@
 **哔哩哔哩：**[【开源】别看它没有巴掌大，桌面上的信息它全包了，30元搞定你的桌面信息屏，它会是终极版吗？](https://www.bilibili.com/video/BV1HHxx65Eqn/)
+
 **嘉立创开源广场：**[桌面显示屏，屏幕时钟，ESP屏幕，桌面小屏幕，天气时钟](https://oshwhub.com/eda_amxbeulzd/project_vcpxexpy)
 
 # Desktop Assistant · 桌面信息屏
